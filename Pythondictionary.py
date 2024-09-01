@@ -38,5 +38,7 @@ if course_number in room_number and course_number in instructor_name and course_
 else:
     print("Course number not found.")
     
-# Code by Garen Murcia
+# Code by Garen Murcia Mod 7
+
+
 
